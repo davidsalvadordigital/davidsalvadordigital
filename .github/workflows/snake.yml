@@ -1,0 +1,41 @@
+# Nombre del Flujo de Trabajo
+name: Generate Snake Animation
+
+# Cómo se activa el flujo de trabajo
+on:
+  # Se ejecuta automáticamente según un horario (cada 12 horas en este caso)
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite ejecutarlo manualmente desde la pestaña "Actions" de GitHub
+  workflow_dispatch:
+
+# Tareas a ejecutar
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Clona el repositorio para tener acceso a él
+      - uses: actions/checkout@v3
+
+      # 2. Genera la animación de la serpiente
+      - uses: Platane/snk@v3
+        with:
+          # Tu nombre de usuario de GitHub (se obtiene automáticamente)
+          github_user_name: ${{ github.repository_owner }}
+
+          # Archivos de salida
+          # La primera línea genera el gráfico para el modo claro.
+          # La segunda genera una versión para el modo oscuro.
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3. Sube los archivos generados al repositorio
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          # El `|| exit 0` evita un error si no hay cambios que subir
+          git commit -m "feat: generate contribution snake" || exit 0
+          git push
