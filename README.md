@@ -10,9 +10,9 @@
 
 ## 🚀 Sobre mí
 <p>
-  Apasionado por transformar ideas en soluciones digitales robustas y escalables. <br>
-  Mi misión es escribir código limpio y eficiente, especializado en el ecosistema JavaScript. <br>
-  Estoy en constante aprendizaje para construir software de alto impacto y preparado para el futuro.
+  - Apasionado por transformar ideas en soluciones digitales robustas y escalables. <br>
+  - Mi misión es escribir código limpio y eficiente, especializado en el ecosistema JavaScript. <br>
+  - Estoy en constante aprendizaje para construir software de alto impacto y preparado para el futuro.
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -82,16 +82,16 @@
 <table width="100%">
   <tr valign="top">
     <td width="33%">
-      <h4 align="center">🚀 Desarrollo de Productos (MVP)</h4>
-      <p align="center">Transformo tu idea en un Producto Mínimo Viable funcional para validar tu modelo de negocio rápidamente en el mercado.</p>
+      <h4 align="center">🚀 Desarrollo de MVP</h4>
+      <p align="center">Transformo tu idea en un producto funcional para validar tu negocio rápidamente.</p>
     </td>
     <td width="33%">
-      <h4 align="center">💻 Desarrollo Web Full Stack</h4>
-      <p align="center">Creación de aplicaciones web completas y a medida, desde la arquitectura del backend hasta la interfaz de usuario final.</p>
+      <h4 align="center">💻 Desarrollo Full Stack</h4>
+      <p align="center">Creo aplicaciones web completas y a medida, del backend al frontend.</p>
     </td>
     <td width="33%">
-      <h4 align="center">🔧 Consultoría y Optimización</h4>
-      <p align="center">Análisis de rendimiento, refactorización de código y optimización de arquitectura para escalar y mejorar tus aplicaciones existentes.</p>
+      <h4 align="center">🔧 Optimización y Consultoría</h4>
+      <p align="center">Mejoro el rendimiento y la escalabilidad de tus aplicaciones existentes.</p>
     </td>
   </tr>
 </table>
@@ -101,17 +101,17 @@
 ## 💻 Stack Tecnológico
 ### Lenguajes y Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,flask,graphql,html,css,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,django,html,css,sass,tailwind" />
 </p>
 
 ### Bases de Datos & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,docker,kubernetes,aws,azure,gcp,githubactions" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,kubernetes,aws,githubactions" />
 </p>
 
 ### Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux,postman,webpack" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,webpack" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
