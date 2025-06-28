@@ -83,7 +83,7 @@
   <tr valign="top">
     <td width="33%">
       <h4 align="center">🚀 Desarrollo de MVP</h4>
-      <p align="center">Transformo tu idea en un producto funcional para validar tu negocio rápidamente.</p>
+      <p align="center">Transformo tu idea en un MVP funcional para validar tu negocio.</p>
     </td>
     <td width="33%">
       <h4 align="center">💻 Desarrollo Full Stack</h4>
@@ -106,12 +106,12 @@
 
 ### Bases de Datos & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,kubernetes,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,kubernetes,aws,googlecloud,firebase,githubactions" />
 </p>
 
 ### Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,webpack" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,github,figma,postman,webpack,vercel," />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
