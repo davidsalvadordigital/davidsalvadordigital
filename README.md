@@ -10,7 +10,9 @@
 
 ## 🚀 Sobre mí
 <p>
-  ¡Hola! Soy un apasionado desarrollador de software con la misión de transformar ideas complejas en soluciones digitales elegantes, robustas y eficientes. Mi enfoque se centra en escribir código limpio y escalable, construyendo productos que no solo funcionen hoy, sino que estén preparados para el crecimiento del mañana. Me especializo en el ecosistema de JavaScript, pero mi curiosidad me mantiene en un estado de aprendizaje constante, siempre explorando nuevas tecnologías para mejorar mis proyectos y los de mis clientes.
+  Apasionado por transformar ideas en soluciones digitales robustas y escalables. <br>
+  Mi misión es escribir código limpio y eficiente, especializado en el ecosistema JavaScript. <br>
+  Estoy en constante aprendizaje para construir software de alto impacto y preparado para el futuro.
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -53,10 +55,10 @@
 
 ## 🗣️ Testimonios
 > _"David demostró una capacidad técnica excepcional y un compromiso inquebrantable con el proyecto. Su código es limpio y su comunicación, excelente."_
-> <br>— <b>*Isabella Rossi, CEO de TechSolutions Inc.*</b>
+> <br>— <b>**Isabella Rossi, CEO de TechSolutions Inc.**</b>
 
 > _"Trabajar con David fue una experiencia transformadora. Llevó nuestra idea inicial a un producto funcional y robusto en tiempo récord. 100% recomendado."_
-> <br>— <b>*Dr. Alex Chen, Líder de Proyecto en OpenDev Collective*</b>
+> <br>— **Dr. Alex Chen, Líder de Proyecto en OpenDev Collective**
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
