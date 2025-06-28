@@ -39,17 +39,40 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🤝 Colaboraciones
-<p>
-  Creo firmemente en el poder del código abierto y la colaboración para impulsar la innovación. He tenido el placer de contribuir y trabajar con diversas comunidades y proyectos.
-</p>
-<p align="center">
-  <a href="URL_PROYECTO_1"><img src="https://skillicons.dev/icons?i=react" alt="React Community" title="React Community"></a>
-  &nbsp;&nbsp;
-  <a href="URL_PROYECTO_2"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Contributor" title="Node.js Contributor"></a>
-  &nbsp;&nbsp;
-  <a href="URL_PROYECTO_3"><img src="https://skillicons.dev/icons?i=vue" alt="VueJS Venezuela" title="VueJS Venezuela"></a>
-</p>
+## 🤝 Colaboraciones y Contribuciones
+<details>
+  <summary><strong>Haz clic aquí para ver mis colaboraciones detalladas</strong></summary>
+  <br>
+  
+  <p>He tenido la oportunidad de colaborar en diversos proyectos. Aquí detallo algunas de mis contribuciones más significativas:</p>
+
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="30%">Proyecto / Organización</th>
+        <th width="50%">Mi Contribución</th>
+        <th width="20%">Ver Prueba</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b><a href="URL_DEL_REPOSITORIO">Nombre del Proyecto 1</a></b></td>
+        <td>Desarrollé un nuevo componente de UI para el dashboard y corregí bugs de rendimiento.</td>
+        <td align="center"><a href="URL_AL_PULL_REQUEST_O_ISSUE"><b>PR #123</b></a></td>
+      </tr>
+      <tr>
+        <td><b><a href="URL_DEL_REPOSITORIO_2">Awesome-Project-2</a></b></td>
+        <td>Refactoricé la capa de servicios del API para mejorar la modularidad y añadí nuevos endpoints.</td>
+        <td align="center"><a href="URL_AL_PULL_REQUEST_2"><b>Ver Commit</b></a></td>
+      </tr>
+       <tr>
+        <td><b><a href="URL_A_LA_ORGANIZACION">Comunidad Open Source Vzla</a></b></td>
+        <td>Organicé un workshop sobre "Buenas Prácticas en React" y fui mentor de nuevos contribuyentes.</td>
+        <td align="center"><a href="URL_AL_EVENTO_O_POST"><b>Más Info</b></a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -133,9 +156,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidsalvadordigital/davidsalvadordigital/main/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comdavidsalvadordigital/davidsalvadordigital/main/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/davidsalvadordigital/davidsalvadordigital/main/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+## 🐍 Mi Contribución Gráfica (Snake)
+
+<div align="center">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/davidsalvadordigital/davidsalvadordigital/main/output/github-contribution-grid-snake.svg">
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -153,8 +181,8 @@
 
 ## 📝 Últimos Posts
 <p align="left"><i>Dsifruta leyendo mis ultimos articulos.</i></p>
-- Arquitectura de microservicios para aplicaciones escalables - Junio 2025
-- Optimización de React: Técnicas avanzadas de rendimiento - Mayo 2025
+- Arquitectura de microservicios para aplicaciones escalables - Junio 2025<br>
+- Optimización de React: Técnicas avanzadas de rendimiento - Mayo 2025<br>
 - Guía completa de autenticación con JWT y OAuth2 - Abril 2025
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -191,7 +219,7 @@
   Estoy a un mensaje de distancia. ¡Conectemos y hablemos de tecnología, proyectos o startups!
   <br><br>
   <a href="URL_DE_TU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="URL_DE_TU_TWITTER_O_OTRA_RED" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="URL_DE_TU_X_O_OTRA_RED" target="_blank"><img src="https://img.shields.io/badge/Twitter-191919?style=for-the-badge&logo=x&logoColor=white" alt="red social x"/></a>
   <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 </p>
 
