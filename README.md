@@ -24,7 +24,7 @@
 ## 💻 Stack Tecnológico
 
 <details>
-  <summary> <strong>Clic aquí para mis tecnologías clave</strong> </summary>
+  <summary> <strong>Clic aquí para ver mis tecnologías clave</strong> </summary>
   <br>
 <div align="center">
   <h4> Frontend </h4>
