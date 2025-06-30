@@ -121,8 +121,10 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## 💻 Stack Tecnológico
 <details>
-  <summary> <h2>💻 Stack Tecnológico</h2> </summary>
+  <summary> <strong>Clic aquí para mis tecnologías clave</strong> </summary>
+  <br>
 <div align="center">
   <h4> Frontend </h4>
   <a href="https://skillicons.dev">
@@ -241,6 +243,8 @@
   <a href="URL_DE_TU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="URL_DE_TU_X_O_OTRA_RED" target="_blank"><img src="https://img.shields.io/badge/Twitter-191919?style=for-the-badge&logo=x&logoColor=white" alt="red social x"/></a>
   <a href="mailto:TU_CORREO@ejemplo.com"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
+    <a href="URL_DE_TU_WHATSAPP"><img src="https://img.shields.io/badge/Whatsapp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
