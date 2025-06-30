@@ -121,15 +121,15 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 💻 Stack Tecnológico
-
+<details>
+  <summary> <h2>💻 Stack Tecnológico</h2> </summary>
 <div align="center">
   <h4> Frontend </h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,astro,nextjs,react,vue" />
   </a>
 
-  <br> <h4> Backend (Node.js Centric) </h4>
+  <br> <h5> Backend (Node.js Centric) </h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,supabase" />
   </a>
@@ -137,29 +137,30 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Line Separator" />
 
-### 🛠️ Herramientas y Flujo de Trabajo
+#### 🛠️ Herramientas y Flujo de Trabajo
 
 <div align="center">
-  <h4> Diseño y Productividad </h4>
+  <h5> Diseño y Productividad </h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,figma,notion" />
   </a>
 
-   <br><h4> Entornos y Control de Versiones </h4>
+   <br><h5> Entornos y Control de Versiones </h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=copilot,vscode,git,github,bash" />
   </a>
 
-  <br><h4> Empaquetado y Pruebas </h4>
+  <br><h5> Empaquetado y Pruebas </h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm,vite,jest,cypress,postman" />
   </a>
 
-  <br><h4> Contenerización, CI/CD y Despliegue </h4>
+  <br><h5> Contenerización, CI/CD y Despliegue </h5>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,vercel,netlify,aws,gcp" />
   </a>
 </div>
+</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
