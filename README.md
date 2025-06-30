@@ -122,20 +122,44 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 💻 Stack Tecnológico
-### Lenguajes y Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,django,html,css,sass,tailwind" />
-</p>
 
-### Bases de Datos & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,kubernetes,aws,googlecloud,firebase,githubactions" />
-</p>
+<div align="center">
+  <h4> Frontend </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,astro,nextjs,react,vue" />
+  </a>
 
-### Herramientas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,github,figma,postman,webpack,vercel," />
-</p>
+  <br> <h4> Backend (Node.js Centric) </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,supabase" />
+  </a>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Line Separator" />
+
+### 🛠️ Herramientas y Flujo de Trabajo
+
+<div align="center">
+  <h4> Diseño y Productividad </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,figma,notion" />
+  </a>
+
+   <br><h4> Entornos y Control de Versiones </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=copilot,vscode,git,github,bash" />
+  </a>
+
+  <br><h4> Empaquetado y Pruebas </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,vite,jest,cypress,postman" />
+  </a>
+
+  <br><h4> Contenerización, CI/CD y Despliegue </h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,vercel,netlify,aws,gcp" />
+  </a>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
