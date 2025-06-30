@@ -50,7 +50,7 @@
 
    <br><h5> Entornos y Control de Versiones </h5>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=copilot,vscode,git,github,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bash" />
   </a>
 
   <br><h5> Empaquetado y Pruebas </h5>
