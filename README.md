@@ -1,3 +1,4 @@
+<!-- ===================== Banner y Presentación ===================== -->
 <!-- Banner -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/18164139dc09e94a64895db627938c931a5aaa359a9a57b4a61ce77a58330990/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" alt="Banner de David Salvador - Desarrollador Full Stack" width="100%">
@@ -8,7 +9,9 @@
   <h3>Desarrollador Full Stack | Especialista en JavaScript y Soluciones Escalables</h3>
 </div>
 
+<!-- ===================== Sobre mí ===================== -->
 ## 🚀 Sobre mí
+
 <p>
   - Apasionado por transformar ideas en soluciones digitales robustas y escalables. <br>
   - Mi misión es escribir código limpio y eficiente, especializado en el ecosistema JavaScript. <br>
@@ -17,111 +20,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🏅 Certificaciones
-<table>
-  <tr valign="top">
-    <td width="50%">
-      <ul>
-        <li><b><a href="URL_A_LA_CERTIFICACION">React - The Complete Guide</a></b> - <i>Academind</i></li>
-        <li><b><a href="URL_A_LA_CERTIFICACION">Node.js, Express, MongoDB & More</a></b> - <i>Jonas Schmedtmann</i></li>
-        <li><b><a href="URL_A_LA_CERTIFICACION">AWS Certified Cloud Practitioner</a></b> - <i>Amazon Web Services</i></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li><b><a href="URL_A_LA_CERTIFICACION">Scrum Foundation Professional</a></b> - <i>CertiProf</i></li>
-        <li><b><a href="URL_A_LA_CERTIFICACION">JavaScript Algorithms and Data Structures</a></b> - <i>freeCodeCamp</i></li>
-        <li><b><a href="URL_A_LA_CERTIFICACION">Otra Certificación Importante</a></b> - <i>Institución</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 🤝 Colaboraciones y Contribuciones
-<details>
-  <summary><strong>Haz clic aquí para ver mis colaboraciones detalladas</strong></summary>
-  <br>
-  
-  <p>He tenido la oportunidad de colaborar en diversos proyectos. Aquí detallo algunas de mis contribuciones más significativas:</p>
-
-  <table width="100%">
-    <thead>
-      <tr>
-        <th width="30%">Proyecto / Organización</th>
-        <th width="50%">Mi Contribución</th>
-        <th width="20%">Ver Prueba</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b><a href="URL_DEL_REPOSITORIO">Nombre del Proyecto 1</a></b></td>
-        <td>Desarrollé un nuevo componente de UI para el dashboard y corregí bugs de rendimiento.</td>
-        <td align="center"><a href="URL_AL_PULL_REQUEST_O_ISSUE"><b>PR #123</b></a></td>
-      </tr>
-      <tr>
-        <td><b><a href="URL_DEL_REPOSITORIO_2">Awesome-Project-2</a></b></td>
-        <td>Refactoricé la capa de servicios del API para mejorar la modularidad y añadí nuevos endpoints.</td>
-        <td align="center"><a href="URL_AL_PULL_REQUEST_2"><b>Ver Commit</b></a></td>
-      </tr>
-       <tr>
-        <td><b><a href="URL_A_LA_ORGANIZACION">Comunidad Open Source Vzla</a></b></td>
-        <td>Organicé un workshop sobre "Buenas Prácticas en React" y fui mentor de nuevos contribuyentes.</td>
-        <td align="center"><a href="URL_AL_EVENTO_O_POST"><b>Más Info</b></a></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 🗣️ Testimonios
-> _"David demostró una capacidad técnica excepcional y un compromiso inquebrantable con el proyecto. Su código es limpio y su comunicación, excelente."_
-> <br>— <b>**Isabella Rossi, CEO de TechSolutions Inc.**</b>
-
-> _"Trabajar con David fue una experiencia transformadora. Llevó nuestra idea inicial a un producto funcional y robusto en tiempo récord. 100% recomendado."_
-> <br>— **Dr. Alex Chen, Líder de Proyecto en OpenDev Collective**
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## ❓ FAQ
-<details>
-  <summary><b>¿Cuál es tu especialidad principal y qué tecnologías dominas?</b></summary>
-  <p>Mi especialidad es el desarrollo Full Stack dentro del ecosistema de JavaScript, utilizando principalmente el stack MERN (MongoDB, Express, React, Node.js) para construir aplicaciones web modernas, rápidas y escalables.</p>
-</details>
-<details>
-  <summary><b>¿Estás disponible para nuevos proyectos o consultorías?</b></summary>
-  <p>Sí, siempre estoy abierto a discutir nuevas oportunidades y proyectos interesantes. Si tienes una idea o necesitas ayuda con un proyecto existente, no dudes en contactarme.</p>
-</details>
-<details>
-  <summary><b>¿Cuál es tu metodología de trabajo?</b></summary>
-  <p>Aplico principios de metodologías ágiles como Scrum. Priorizo la comunicación constante, entregas incrementales y la adaptación continua para asegurar que el producto final cumpla y supere las expectativas.</p>
-</details>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-## 💼 Servicios
-<table width="100%">
-  <tr valign="top">
-    <td width="33%">
-      <h4 align="center">🚀 Desarrollo de MVP</h4>
-      <p align="center">Transformo tu idea en un MVP funcional para validar tu negocio.</p>
-    </td>
-    <td width="33%">
-      <h4 align="center">💻 Desarrollo Full Stack</h4>
-      <p align="center">Creo aplicaciones web completas y a medida, del backend al frontend.</p>
-    </td>
-    <td width="33%">
-      <h4 align="center">🔧 Optimización y Consultoría</h4>
-      <p align="center">Mejoro el rendimiento y la escalabilidad de tus aplicaciones existentes.</p>
-    </td>
-  </tr>
-</table>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<!-- ===================== Stack Tecnológico ===================== -->
 ## 💻 Stack Tecnológico
+
 <details>
   <summary> <strong>Clic aquí para mis tecnologías clave</strong> </summary>
   <br>
@@ -166,16 +67,113 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!-- ===================== Servicios ===================== -->
+## 💼 Servicios
+
+<table width="100%">
+  <tr valign="top">
+    <td width="33%">
+      <h4 align="center">🚀 Desarrollo de MVP</h4>
+      <p align="center">Transformo tu idea en un MVP funcional para validar tu negocio.</p>
+    </td>
+    <td width="33%">
+      <h4 align="center">💻 Desarrollo Full Stack</h4>
+      <p align="center">Creo aplicaciones web completas y a medida, del backend al frontend.</p>
+    </td>
+    <td width="33%">
+      <h4 align="center">🔧 Optimización y Consultoría</h4>
+      <p align="center">Mejoro el rendimiento y la escalabilidad de tus aplicaciones existentes.</p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- ===================== Certificaciones ===================== -->
+## 🏅 Certificaciones
+
+<table>
+  <tr valign="top">
+    <td width="50%">
+      <ul>
+        <li><b><a href="URL_A_LA_CERTIFICACION">React - The Complete Guide</a></b> - <i>Academind</i></li>
+        <li><b><a href="URL_A_LA_CERTIFICACION">Node.js, Express, MongoDB & More</a></b> - <i>Jonas Schmedtmann</i></li>
+        <li><b><a href="URL_A_LA_CERTIFICACION">AWS Certified Cloud Practitioner</a></b> - <i>Amazon Web Services</i></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <ul>
+        <li><b><a href="URL_A_LA_CERTIFICACION">Scrum Foundation Professional</a></b> - <i>CertiProf</i></li>
+        <li><b><a href="URL_A_LA_CERTIFICACION">JavaScript Algorithms and Data Structures</a></b> - <i>freeCodeCamp</i></li>
+        <li><b><a href="URL_A_LA_CERTIFICACION">Otra Certificación Importante</a></b> - <i>Institución</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- ===================== Colaboraciones y Contribuciones ===================== -->
+## 🤝 Colaboraciones y Contribuciones
+
+<details>
+  <summary><strong>Haz clic aquí para ver mis colaboraciones detalladas</strong></summary>
+  <br>
+  
+  <p>He tenido la oportunidad de colaborar en diversos proyectos. Aquí detallo algunas de mis contribuciones más significativas:</p>
+
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="30%">Proyecto / Organización</th>
+        <th width="50%">Mi Contribución</th>
+        <th width="20%">Ver Prueba</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b><a href="URL_DEL_REPOSITORIO">Nombre del Proyecto 1</a></b></td>
+        <td>Desarrollé un nuevo componente de UI para el dashboard y corregí bugs de rendimiento.</td>
+        <td align="center"><a href="URL_AL_PULL_REQUEST_O_ISSUE"><b>PR #123</b></a></td>
+      </tr>
+      <tr>
+        <td><b><a href="URL_DEL_REPOSITORIO_2">Awesome-Project-2</a></b></td>
+        <td>Refactoricé la capa de servicios del API para mejorar la modularidad y añadí nuevos endpoints.</td>
+        <td align="center"><a href="URL_AL_PULL_REQUEST_2"><b>Ver Commit</b></a></td>
+      </tr>
+       <tr>
+        <td><b><a href="URL_A_LA_ORGANIZACION">Comunidad Open Source Vzla</a></b></td>
+        <td>Organicé un workshop sobre "Buenas Prácticas en React" y fui mentor de nuevos contribuyentes.</td>
+        <td align="center"><a href="URL_AL_EVENTO_O_POST"><b>Más Info</b></a></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- ===================== Testimonios ===================== -->
+## 🗣️ Testimonios
+>
+> _"David demostró una capacidad técnica excepcional y un compromiso inquebrantable con el proyecto. Su código es limpio y su comunicación, excelente."_
+> — **Isabella Rossi, CEO de TechSolutions Inc.**
+
+> _"Trabajar con David fue una experiencia transformadora. Llevó nuestra idea inicial a un producto funcional y robusto en tiempo récord. 100% recomendado."_
+> — **Dr. Alex Chen, Líder de Proyecto en OpenDev Collective**
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!-- ===================== Estadísticas Dinámicas ===================== -->
 ## 📊 Estadísticas Dinámicas
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidsalvadordigital&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estadísticas GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsalvadordigital&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes más usados">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsalvadordigital&theme=github-dark&hide_border=true" alt="Racha GitHub"> 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidsalvadordigital&theme=github-dark&hide_border=true" alt="Racha GitHub">
   <img src="https://github-profile-trophy.vercel.app/?username=davidsalvadordigital&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
   
   <!-- Espacio visual entre logros y gráfica de contribución -->
-  <br>
-  <br>
+  <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidsalvadordigital&theme=github-compact" alt="GitHub Contribution Graph">
 
@@ -189,6 +187,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!-- ===================== Actividad Reciente ===================== -->
 ## 📈 Actividad Reciente
 
 ```text
@@ -201,7 +200,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!-- ===================== Últimos Posts ===================== -->
 ## 📝 Últimos Posts
+
 <p align="left"><i>Dsifruta leyendo mis ultimos articulos.</i></p>
 - Arquitectura de microservicios para aplicaciones escalables - Junio 2025<br>
 - Optimización de React: Técnicas avanzadas de rendimiento - Mayo 2025<br>
@@ -209,7 +210,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!-- ===================== Metas 2025 ===================== -->
 ## 🎯 Metas 2025
+
 - [x] Rediseñar mi portafolio y perfil de GitHub
 - [ ] Lanzar un proyecto SaaS personal
 - [ ] Escribir 12 artículos técnicos en mi blog
@@ -218,16 +221,20 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!-- ===================== Recursos recomendados ===================== -->
 ## 📚 Recursos recomendados
-* **Libro:** "Clean Code" de Robert C. Martin. Una lectura fundamental para cualquier desarrollador serio.
-* **Blog:** [fireship.io](https://fireship.io/) para tutoriales de alta calidad, rápidos y al grano.
-* **Herramienta:** [Excalidraw](https://excalidraw.com/) para diagramas y pizarras virtuales de forma sencilla.
+
+- **Libro:** "Clean Code" de Robert C. Martin. Una lectura fundamental para cualquier desarrollador serio.
+- **Blog:** [fireship.io](https://fireship.io/) para tutoriales de alta calidad, rápidos y al grano.
+- **Herramienta:** [Excalidraw](https://excalidraw.com/) para diagramas y pizarras virtuales de forma sencilla.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!-- ===================== Apoya mi trabajo ===================== -->
 ## ❤️ Apoya mi trabajo
+
 <p align="center">
-  Si mi trabajo, mis artículos o mis proyectos te han sido de utilidad, considera invitarme un café o patrocinarme. ¡Tu apoyo me motiva a seguir creando y compartiendo conocimiento!
+  Si mi trabajo, mis artículos o mis proyectos te han sido de utilidad, considera invitarme un café o patrocinarme.<br> ¡Tu apoyo me motiva a seguir creando y compartiendo conocimiento!
   <br><br>
   <a href="https://github.com/sponsors/davidsalvadordigital" target="_blank"><img src="https://img.shields.io/badge/Sponsor_en_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor en GitHub"/></a>
   &nbsp;&nbsp;
@@ -236,7 +243,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🤝 ¡Conecta conmigo!
+<!-- ===================== Conecta conmigo ===================== -->
+## 🤝 ¡Conecta conmigo
+
 <p align="center">
   Estoy a un mensaje de distancia. ¡Conectemos y hablemos de tecnología, proyectos o startups!
   <br><br>
@@ -249,7 +258,24 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-##
+<!-- ===================== Filosofía de Desarrollo ===================== -->
+## 🧠 Filosofía de Desarrollo
+
+> _"El código no es solo instrucciones para máquinas, es poesía lógica que resuelve problemas humanos. Cada línea debe
+ser escrita con intención, cada arquitectura diseñada con propósito, y cada solución creada con impacto."_
+> **- David Salvador**
+
+````mermaid
+graph LR
+A[Problema Real] --> B[Análisis Creativo]
+B --> C[Diseño Elegante]
+C --> D[Implementación Sólida]
+D --> E[Pruebas Rigurosas]
+E --> F[Despliegue Eficiente]
+F --> G[Feedback Continuo]
+G --> A
+````
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=davidsalvadordigital&label=Vistas_del_Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil"/>
   <p>
