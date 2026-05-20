@@ -1,7 +1,7 @@
 <!-- ===================== Banner y Presentación ===================== -->
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/18164139dc09e94a64895db627938c931a5aaa359a9a57b4a61ce77a58330990/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966" alt="Banner de David Salvador - Desarrollador Full Stack" width="100%">
+  <img src= "https://geomoer.github.io/moer-base-r/assets/images/spotlights/github_header.png" alt="Banner de David Salvador - Desarrollador Full Stack" width="100%">
 </p>
 
 <div align="center">
